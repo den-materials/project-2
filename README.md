@@ -98,3 +98,32 @@ There are several requirements in the Project 2 rubric. Your instructors will sc
 * __Deployment__: Did you deploy your application to a public url using GitHub Pages?
 
 * __Professional Development__: Did you demonstrates ability to communicate and collaborate with others in the classroom and/or on a team? Did you treat your peers, teammates, instructors with respect, make and follow agreements, and maintain a growth mindset?
+
+#### Your First Stand-up
+
+After you have finished your Trello and README, circle up with your squad and show them your project idea.
+
+In order to be approved, your squadmates' projects must have:
+
+- A Trello board with all user stories
+    - All user stories must have sizes
+    - All user stories must be from the user's perspective
+    - All user stories put together must satisfy all requirements on the rubric
+- A README for the project
+    - The README must be on GitHub
+    - The README must have a basic description of the project
+    - The README must specify what API you are planning on using
+
+Give your squadmates at least two "glows" (something you really like) and two "grows" (something you'd like them to improve).  In order to be "approved", all projects must have these points, so make sure your squadmates' covered them all.
+
+#### Your Second Stand-up
+
+After all squadmates have had a chance to polish their project planning, they will present their ideas again.  This time, make sure all bullet points above are hit.  If they are, send your project Trello and README links to the instructors.  If they are not, polish up those last few bits before sending the links to the instructors.
+
+Finally, tell your squad:
+
+- What you have done
+- What you will do
+- Any blockers
+
+And try to show your squadmates as much as possible (Trello, Live app, Code -- showing is way better than telling).
