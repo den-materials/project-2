@@ -45,6 +45,11 @@ Your app must:
 * **Commit early, commit often.** Don’t be afraid to break something because you can always go back in time to a previous version.
 * **User stories define what a specific type of user wants to accomplish with your application**. It's tempting to just make them _to-do lists_ for what needs to get done, but if you keep them small & focused on what a user cares about from their perspective, it'll help you know what to build
 * **Write pseudocode before you write actual code.** Thinking through the logic of something helps.
+* Keep it **small**.  What is the **minimum viable product** for your project?  That is, what is the shortest way to hit all the requirements without any bells and whistles?  Bells and whistles can be added later.
+* Make sure your **API works**.  API work can easily take up the whole project week if you let it.  Again, what is the minimum you need to satisfy the requirements?  Abandon any APIs that do not give you that in a reasonable amount of time.
+* Make sure **Passport works**.  A lot of steps are necessary to make signup, login, and logout work, and some of them are hidden in Passport's code.
+* **Stick with your squad.**  There is strength in numbers, and 3 or 4 people working on a problem together are probably more effective than 1 person working alone.
+* Get **Heroku working early**.  Even if it is just a "Hello World", that is a great start.  Getting a deployed Heroku project is hard, so don't put it off until the then.
 
 ---
 
